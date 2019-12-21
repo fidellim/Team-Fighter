@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Team Fighter</string>
+    <string name="your_score">Your Score: %s</string>
+    <string name="time_left">Time Left: %s</string>
+    <string name="tapMe">Tap Me</string>
+    <string name="gameOver">Times up! Your score was: %s</string>
+    <string name="about_menu">About</string>
+    <string name="about_title">Time Fighter %s</string>
+    <string name="about_message">Created by Fidel Lim</string>
+</resources>
